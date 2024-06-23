@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2C2C2C;
+    color: #FFF; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #E0E0E0;
+    border-bottom: 2px solid #4A4A4A;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+/* ugly css made in 5 seconds ol*/
